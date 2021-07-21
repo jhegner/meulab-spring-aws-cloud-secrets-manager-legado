@@ -1,1 +1,1 @@
-rootProject.name = "meulab-spring-aws-cloud-secrets-manager"
+rootProject.name = "spring-aws-cloud-secretmanager"

@@ -1,0 +1,1 @@
+spring.config.import: aws-secretsmanager:/secrets/spring-cloud-aws-sample-app
